@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.2.9.RELEASE-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lips/spring-aop-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-aspects-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-beans-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-indexer-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-support-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-core-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-expression-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-instrument-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jcl-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jdbc-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jms-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-messaging-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-orm-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-oxm-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-test-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-tx-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-web-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webflux-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webmvc-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-websocket-5.2.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lips/spring-aop-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-aspects-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-beans-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-indexer-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-support-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-core-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-expression-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-instrument-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jcl-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jdbc-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jms-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-messaging-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-orm-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-oxm-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-test-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-tx-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-web-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webflux-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webmvc-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-websocket-5.2.9.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lips/spring-aop-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-aspects-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-beans-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-indexer-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-context-support-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-core-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-expression-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-instrument-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jcl-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jdbc-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-jms-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-messaging-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-orm-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-oxm-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-test-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-tx-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-web-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webflux-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-webmvc-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lips/spring-websocket-5.2.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
